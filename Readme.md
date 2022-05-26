@@ -1,1 +1,1 @@
-Link dos Arquivos: [link text](https://drive.google.com/drive/folders/1MNIQQJVwI06Dj6qbg4wC7g0RBcKagF86?usp=sharing) **BAIXAR**
+Estrutura para modelagem computacional. Esse é o link para acesso aos arquivos: [link text](https://drive.google.com/drive/folders/1MNIQQJVwI06Dj6qbg4wC7g0RBcKagF86?usp=sharing), podendo baixar para poder testar o código no na plataforma preferida de codificação.
